@@ -1,8 +1,8 @@
 {
-  "name": "site",
+  "name": "Tracesr",
   "version": "1.0.0",
-  "description": "My luminous Nuxt.js project",
-  "author": "tower1229",
+  "description": "觅迹，轻量级室内导航解决方案",
+  "author": "tower1229@foxmail.com",
   "private": true,
   "scripts": {
     "dev": "nuxt",
