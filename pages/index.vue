@@ -303,7 +303,7 @@ export default {
 .container3 a{color:#fff;}
 
 .footer {
-  padding: 2rem 0;
+  padding: 4rem 0;
   color: #fff;
   text-align: center;
   background-image: linear-gradient(to top right, #03928f, #1eab8d);
@@ -312,6 +312,6 @@ export default {
 .footer a{color:#fff;}
 .footer .ion{color:#333;}
 .footer ._links{text-align: left;}
-.footer ._hd{font-weight: 700;margin-bottom:1rem;text-align: center}
+.footer ._hd{font-weight: 700;margin-bottom:2rem;text-align: center}
 .footer li{margin-bottom: 10px;}
 </style>
