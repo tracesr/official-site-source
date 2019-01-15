@@ -6,6 +6,9 @@
           <b-col>
             <div class="logo"></div>
             <h2 class="subtitle">觅迹，轻量级室内导航解决方案</h2>
+            <p>
+              应用于商超、景点、园区等区域内寻路场景，结合使用场景可以扩展全局消息、商家消息、和途径消息等多样化功能。
+            </p>
             <div class="links">
               <a href="#about" class="button--green">关于觅迹</a>
               <a href="https://github.com/tracesr" target="_blank" class="button--grey">GitHub</a>
@@ -173,6 +176,7 @@ export default {
 .container1 {
   padding-top: 30px;
   margin-bottom:-4rem;
+  color:#666;
 }
 
 .container1 .subtitle {
