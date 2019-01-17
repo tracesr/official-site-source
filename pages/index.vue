@@ -88,7 +88,9 @@
                           <li>
                             <i class="ion">&#xe600;</i> 商家公告
                           </li>
-                          
+                          <li>
+                            <i class="ion">&#xe62d;</i> 发布管理
+                          </li>
                     </ul>
                 </b-col>
                 <b-col>
@@ -135,13 +137,16 @@
             </ul>
           </b-col>
           <b-col>
-            <div class="_hd">Preview</div>
+            <div class="_hd">Links</div>
             <ul>
               <li>
                 <i class="ion">&#xe7c0;</i> <a href="https://tracesr.github.io/navigation/" target="_blank">移动端导航</a>
               </li>
               <li>
                 <i class="ion">&#xe6a5;</i> <a href="https://tracesr.github.io/map-editor/" target="_blank">地图编辑器</a>
+              </li>
+              <li>
+                <nuxt-link to="/docs">使用帮助</nuxt-link>
               </li>
             </ul>
           </b-col>
