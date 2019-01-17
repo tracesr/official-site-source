@@ -83,13 +83,25 @@
                     <h2 class="_hd"><i class="ion">&#xe613;</i> 消息系统</h2>
                     <ul>
                           <li>
-                            <i class="ion">&#xe62d;</i> 全局公告
+                            <i class="ion">&#xe600;</i> 全局公告
                           </li>
                           <li>
-                            <i class="ion">&#xe62d;</i> 商家公告
+                            <i class="ion">&#xe600;</i> 商家公告
+                          </li>
+                          
+                    </ul>
+                </b-col>
+                <b-col>
+                    <h2 class="_hd"><i class="ion">&#xe7af;</i> 定制主页</h2>
+                    <ul>
+                          <li>
+                            <i class="ion">&#xe62d;</i> 营销信息聚合
                           </li>
                           <li>
-                            <i class="ion">&#xe62d;</i> 导航途径消息注入
+                            <i class="ion">&#xe62d;</i> 商户分类检索
+                          </li>
+                          <li>
+                            <i class="ion">&#xe62d;</i> 品牌入驻
                           </li>
                     </ul>
                 </b-col>
@@ -118,7 +130,7 @@
               </li>
               <li>
                 <b-badge variant="danger">Author</b-badge>
-                <strong><a href="http://refined-x.com/about/" target="_blank">雅X共赏</a></strong>
+                <strong><a href="https://refined-x.com/about/" target="_blank">雅X共赏</a></strong>
               </li>
             </ul>
           </b-col>
