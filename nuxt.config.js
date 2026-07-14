@@ -40,7 +40,7 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: [,
+  modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt'
   ],
